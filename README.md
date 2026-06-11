@@ -1,0 +1,2 @@
+# Bitcoin-Market-Regime-Discovery-using-Advanced-Unsupervised-Machine-Learning
+Bitcoin Market Regime Discovery using Advanced Unsupervised Machine Learning. This project applies K-Means, DBSCAN, OPTICS, Agglomerative Clustering, Birch, Gaussian Mixture Models, PCA, Elbow Method, Silhouette Analysis, and Interactive Streamlit Dashboards to uncover hidden market patterns, volatility regimes, and investor behavior.
